@@ -1,0 +1,3 @@
+submit -s /home/despo/ioannis/Berkeley_research1/stroke/scripts2/perfusion/Stephanie_scripts/Maria_second_batch/AntsBrainExtraction_per_s.sh -f /home/despo/ioannis/Berkeley_research1/stroke/data/perfusion_Maria/Perfusion_data/second_batch/perfusion_second_batch/subjects_list.txt
+
+submit -s /home/despo/ioannis/Berkeley_research1/stroke/scripts2/perfusion/Stephanie_scripts/Maria_second_batch/SyN_per_s.sh -f /home/despo/ioannis/Berkeley_research1/stroke/data/perfusion_Maria/Perfusion_data/second_batch/perfusion_second_batch/subjects_list.txt
